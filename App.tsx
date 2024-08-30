@@ -25,6 +25,7 @@ const App = () => {
   );
 }
 
+
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#5888dc",
